@@ -1,0 +1,36 @@
+.error {
+  color: red;
+  margin-top: 5px;
+}
+form {
+  background-color: #fff;
+  max-width: 500px;
+  margin: 50px auto;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.349);
+  padding: 30px 20px;
+  background-color: mintcream;
+}
+body {
+  font-family: cursive;
+  text-align: center;
+  background-image: url("abstract-g1ca22c1f4_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+button {
+  background-color: cadetblue;
+  border: 1px solid #777;
+  border-radius: 2px;
+  font-family: inherit;
+  font-size: 21px;
+  display: block;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.349);
+}
+.form-control {
+  text-align: left;
+  margin-bottom: 10px;
+}
